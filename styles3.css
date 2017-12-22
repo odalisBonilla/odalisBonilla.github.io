@@ -1,0 +1,19 @@
+body {
+ background-image: url("small.PNG");
+ background-size: cover;
+
+
+}
+h1 {
+    font-size: 450%;
+}
+h2 {
+  color
+}
+.container{
+  display:flex;
+
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: flex-start;
+}
